@@ -15,7 +15,7 @@
 ---
 - **Configure Acqusition**
 
-- ** OS : Windows **<br>
+- OS : Windows <br>
 - ** WAS : Tomcat **<br>
 - ** DBMS : MySQL **<br>
 - ** Languague : Java **<br>
