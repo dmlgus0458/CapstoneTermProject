@@ -1,0 +1,67 @@
+main .sign{
+    border: 0.2em solid #000000;
+}
+.sign{
+    width: 500px;
+    height: 650px;
+    position: relative;
+    margin: 5% auto;
+    text-align: center;
+    }
+.sign h1{
+    padding-top: 1em;
+    padding-bottom: 1em;
+    color: #A0A0A0
+}
+#user-id, #user-nick, #user-pw, #user-pw-check{
+    width: 350px;
+    height: 40px;
+    margin: 20px 0;
+    font-size: 17px;
+    border-radius: 8px;
+    border-style: none;
+    background-color: #f0eeee;
+}
+.sign form div input{
+    width: 350px;
+    height: 40px;
+    margin: 20px 0;
+    font-size: 17px;
+    border-radius: 8px;
+    border-style: none;
+    background-color: #f0eeee;
+}
+.user-id{
+    width: 200px;
+    height: 40px;
+    font-size: 17px;
+    border-radius: 8px;
+    border-style: none;
+    background-color: #A0A0A0;
+}
+
+
+.sign form .email #email-dropdown{
+    width: 100px;
+    height: 40px;
+    margin: 20px 0;
+    font-size: 17px;
+    border-radius: 8px;
+    border-style: none;
+    background-color: #A0A0A0;
+    cursor: pointer;
+}
+.sign .submit #sign-submit{
+    width: 200px;
+    height: 45px;
+    margin: 25px 0 0 0;
+    font-weight: bold;
+    font-size: large;
+    background-color: #A0A0A0;
+    color: white;
+    cursor: pointer;
+    margin-top: 3em;
+}
+.sign .submit #sign-submit:hover{
+    background-color: #212121;
+}
