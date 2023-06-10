@@ -13,11 +13,11 @@
 
  
 ---
--**Configure Acqusition**
+- **Configure Acqusition**
 
-OS : Windows
-WAS : Tomcat
-DBMS : MySQL
-Languague : Java
-IDE : Eclipse
+OS : Windows<br>
+WAS : Tomcat<br>
+DBMS : MySQL<br>
+Languague : Java<br>
+IDE : Eclipse<br>
 
