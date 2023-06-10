@@ -12,3 +12,12 @@
 - **프로젝트 기간**: 2023.04.07 - 2022.06.15
 
  
+---
+-**Configure Acqusition**
+
+OS : Windows
+WAS : Tomcat
+DBMS : MySQL
+Languague : Java
+IDE : Eclipse
+
